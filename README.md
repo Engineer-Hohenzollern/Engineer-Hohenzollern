@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Engineer-Hohenzollern
-- 👀 I’m interested in IIot,Pylogix,Pymodbus,Pyprofibus
+- 👋 Hi, I’m @Engineer-Hohenzollern 
+- 👀 I’m interested in IIot,Pylogix,Pymodbus,Pycomm3,Pyprofibus,
 - 🌱 I’m currently learning Postgress &flask
 - 💞️ I’m looking to collaborate on any python Fieldbus projects
 - 📫 How to reach me ...........
